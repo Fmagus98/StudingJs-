@@ -1,0 +1,103 @@
+[{
+    "teory": [{}],
+    "programmingLanguages":[{"id":1,"name":"Javascript"},{"id":2,"name":"React Js"},{"id":3,"name":"React Native"}],
+    "challengeJs": [{
+            "id": 1,
+            "name": "Challenge 1"
+        },
+        {
+            "id": 2,
+            "name": "Challenge 2"
+        },
+        {
+            "id": 3,
+            "name": "Challenge 3"
+        },
+        {
+            "id": 4,
+            "name": "Challenge 4"
+        },
+        {
+            "id": 5,
+            "name": "Challenge 5"
+        },
+        {
+            "id": 6,
+            "name": "Challenge 6"
+        },
+        {
+            "id": 7,
+            "name": "Challenge 7"
+        },
+        {
+            "id": 8,
+            "name": "Challenge 8"
+        }
+    ],
+    "challengeReact": [{
+            "id": 1,
+            "name": "Challenge 1"
+        },
+        {
+            "id": 2,
+            "name": "Challenge 2"
+        },
+        {
+            "id": 3,
+            "name": "Challenge 3"
+        },
+        {
+            "id": 4,
+            "name": "Challenge 4"
+        },
+        {
+            "id": 5,
+            "name": "Challenge 5"
+        },
+        {
+            "id": 6,
+            "name": "Challenge 6"
+        },
+        {
+            "id": 7,
+            "name": "Challenge 7"
+        },
+        {
+            "id": 8,
+            "name": "Challenge 8"
+        }
+    ],
+    "challengeReactNative": [{
+            "id": 1,
+            "name": "Challenge 1"
+        },
+        {
+            "id": 2,
+            "name": "Challenge 2"
+        },
+        {
+            "id": 3,
+            "name": "Challenge 3"
+        },
+        {
+            "id": 4,
+            "name": "Challenge 4"
+        },
+        {
+            "id": 5,
+            "name": "Challenge 5"
+        },
+        {
+            "id": 6,
+            "name": "Challenge 6"
+        },
+        {
+            "id": 7,
+            "name": "Challenge 7"
+        },
+        {
+            "id": 8,
+            "name": "Challenge 8"
+        }
+    ]
+}]
